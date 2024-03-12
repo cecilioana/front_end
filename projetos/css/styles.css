@@ -1,0 +1,49 @@
+h1{
+    color:rgb(142, 142, 243);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+h3{
+    color:rgb(142, 142, 245);
+    font-style: italic;
+    font-weight: bold;
+}
+h4{
+    color: rgb(142, 142, 251);
+    font-weight: bold;
+}
+a{
+    color:rgb(33, 76, 216);
+}
+body{
+    background-color: white;
+}
+#id1{
+    size: 20;
+    display: block;
+    margin: auto;
+    width: 500px;
+    border-style: double;
+    border-color: rgb(142, 142, 251);
+} 
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 18;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#id2{
+    text-align: center;
+    color: rgb(142, 142, 255);
+    font-weight: bold;
+}
+#id3{
+    text-align: center;
+}
+#id4{
+    border: solid 10px rgb(148, 148, 243) ;
+}
+#id5{
+    text-align: right;
+}
